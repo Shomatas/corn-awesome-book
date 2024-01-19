@@ -1,0 +1,26 @@
+[
+    {
+        "id": "e902c022-b5f4-11ee-866c-f954cb994615",
+        "name": "Барышня крестьянка",
+        "author": "Пушкин А.С.",
+        "publisher": "Бином",
+        "year": 1891,
+        "genre": "Роман"
+    },
+    {
+        "id": "70809e50-b601-11ee-b43a-bb0944f67ac8",
+        "name": "Барышня крестьянка",
+        "author": "Пушкин А.С.",
+        "publisher": "Бином",
+        "year": 1891,
+        "genre": "Роман"
+    },
+    {
+        "id": "bf3e83c2-b6a6-11ee-bb30-c50ef43d26df",
+        "name": "Fight Club",
+        "author": "Chuck Palanic",
+        "publisher": "ClubRead",
+        "year": 1999,
+        "genre": "Criminal"
+    }
+]
